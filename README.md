@@ -1,3 +1,4 @@
-## show following command that help you page run 
-### npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+## show following command that help you page run
+### npm install
+### npx tailwindcss -o ./dist/output.css --watch
 
